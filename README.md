@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=just-injoey&show_icons=true&locale=en" alt="just-injoey" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=just-injoey&" alt="just-injoey" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=just-injoey)](https://git.io/streak-stats)

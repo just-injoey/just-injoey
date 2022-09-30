@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Justin T Joseph</h1>
 <h3 align="center">AI/ML enthusiast from India</h3>
 
+<p align ="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=just-injoey&label=Profile%20views&color=0e75b6&style=flat" alt="just-injoey" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=just-injoey" alt="just-injoey" /></a> </p>

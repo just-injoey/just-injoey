@@ -2,25 +2,27 @@
 <!--
 **just-injoey/just-injoey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...![HactoberfestRegd](https://user-images.githubusercontent.com/93005964/193537992-f9d24864-7c06-4140-b2d5-c83671e0bc4b.png)
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...![HactoberfestRegd](https://user-images.githubusercontent.com/93005964/193538387-7c271fcf-68a3-4b61-a96f-2edb56e9343a.png)
+
 - ⚡ Fun fact: ...
 -->
+![Postman - Postman Student Expert - 2022-10-02](https://user-images.githubusercontent.com/93005964/193532226-cdd53143-8e10-4e91-8c38-82b84a53b0a8.png)
+![HactoberfestRegd(copy2)](https://user-images.githubusercontent.com/93005964/193539210-caaf53c4-fa62-4b13-960d-04e6b1387393.png)
 
 
 <h1 align="center">Hi 👋, I'm Justin T Joseph</h1>
 <h3 align="center">AI/ML enthusiast from India</h3>
 
-<p align ="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" />
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=just-injoey&label=Profile%20views&color=0e75b6&style=flat" alt="just-injoey" /> </p>
 
@@ -39,3 +41,8 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=just-injoey&show_icons=true&locale=en" alt="just-injoey" /></p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=just-injoey)](https://git.io/streak-stats)
+
+<p align ="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" />
+</p>
+

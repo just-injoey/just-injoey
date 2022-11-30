@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Postman - Postman Student Expert - 2022-10-02](https://user-images.githubusercontent.com/93005964/193532226-cdd53143-8e10-4e91-8c38-82b84a53b0a8.png)](https://badgr.com/public/assertions/d_XRlLt6SOWCBsEDX_OKhg)
-[![HactoberfestRegd(copy2)](https://user-images.githubusercontent.com/93005964/193539210-caaf53c4-fa62-4b13-960d-04e6b1387393.png)](https://www.holopin.io/userbadge/cl8jx34oc173930amey1xbn2g7)
 
 
 <h1 align="center">Hi 👋, I'm Justin T Joseph</h1>
